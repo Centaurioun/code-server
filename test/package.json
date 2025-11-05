@@ -13,7 +13,7 @@
     "jest": "^27.3.1",
     "jest-fetch-mock": "^3.0.3",
     "jsdom": "^16.4.0",
-    "node-fetch": "^2.6.7",
+    "node-fetch": "^3.3.2",
     "playwright": "^1.56.1",
     "ts-jest": "^27.0.7",
     "wtfnode": "^0.9.1"
